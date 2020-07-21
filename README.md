@@ -8,5 +8,5 @@ Priory,I have installed mongodb on my system locally and then made connection to
 Once the connection is made,I have created database and pushed data into it.
 Using pymongo I made lot of analysis and saw different results.
 I have attached the code for Analysis as well as code for preprocessing data.
-I have given a clear documnetation about step by step process involved in my implementation.
+I have given a clear documentation about step by step process involved in my implementation.
 Have a look into it!
