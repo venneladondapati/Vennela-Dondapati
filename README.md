@@ -1,4 +1,4 @@
-# Vennela-Dondapati
+# Olympic Data Analysis using Pymongo
 Olympic Data Analysis using Pymongo.
 One of the most popular NoSQL databases is MongoDB. 
 MongoDB uses JSON-like documents that can have varied structures. It uses the MongoDB query language to allow access to the stored data. Since it is schema-free, you can create documents without having to create the structure for the document first.
